@@ -156,4 +156,5 @@ She departed this life the 8th day of the seventh month, 1720,
 aged about sixty-three years, and was buried the 13th of the same,
 in Friends`' burying-ground, at Winchmore-hill.
 
-THE END.
+[.the-end]
+The End.
