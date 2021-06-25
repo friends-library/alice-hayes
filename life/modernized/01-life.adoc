@@ -695,6 +695,9 @@ where a great openness was among the people, and many were convinced.
 In a fresh and lively remembrance of this faithful servant of the Lord,
 a testimony springs in my heart to leave behind me:
 
+[.embedded-content-document.testimony]
+--
+
 He was a man given up in his day, faithful to his God;
 and ran to and fro on the earth for God`'s honour and the good of souls; rising early,
 and lying down late.
@@ -738,7 +741,10 @@ I must say, it is of the Lord, and he is worthy to do whatever he pleases.
 All that he does is well done, whether he gives or takes away,
 blessed be his name forevermore.
 
+[.signed-section-signature]
 Alice Hayes.
+
+--
 
 After the Lord had tried me with exercises of various sorts,
 he was pleased to prove me further by persecution for tithes,
