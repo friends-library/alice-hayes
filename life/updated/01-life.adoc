@@ -742,6 +742,10 @@ where there was great openness among the people, and many were convinced.
 In a fresh and lively remembrance of this faithful servant of the Lord,
 the following testimony springs in my heart to leave behind me.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Alice Hayes`' Testimony concerning Francis Stamper
 
 Francis Stamper was a man given up and faithful to God in his day;
@@ -787,7 +791,10 @@ I must say: it is of the Lord, and He is worthy to do whatever He pleases.
 All that He does is well done, whether He gives or takes away,
 blessed be His name forevermore.
 
+[.signed-section-signature]
 Alice Hayes.
+
+--
 
 After the Lord had tried me with exercises of various sorts,
 He was pleased to prove me further by persecution for tithes,
